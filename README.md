@@ -1,0 +1,1 @@
+# minimal_period_in_array
